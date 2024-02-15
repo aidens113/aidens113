@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidens113&label=Profile%20views&color=0e75b6&style=flat" alt="aidens113" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aidens113" alt="aidens113" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aidens113" alt="aidens113" /></a> </p>-->
 
 - 🔭 I’m currently working on [Simple Selenium](https://github.com/aidens113/simpleSeleniumWrapper)
 
