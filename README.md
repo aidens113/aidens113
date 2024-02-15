@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aiden S.</h1>
-<h3 align="center">A backend developer, lover of Automation & the power of Data</h3>
+<h3 align="center">I specialize in backend development. I'm a lover of automation and the power of data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidens113&label=Profile%20views&color=0e75b6&style=flat" alt="aidens113" /> </p>
 
