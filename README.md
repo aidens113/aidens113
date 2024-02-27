@@ -22,7 +22,7 @@
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/scikitlearn.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/scikitlearn.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/scikitlearn.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/scikitlearn.png">
+  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/tf.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/gcloud.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/arduino.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/scikitlearn.png">
