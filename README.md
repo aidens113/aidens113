@@ -14,23 +14,23 @@
 
 <h3 align="left">Language, Frameworks, & Tools:</h3>
 <p align="left"> 
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/selenium.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/python.png">
+  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/js.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/php.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/nodejs.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/pandas.png">
+  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/selenium.png">
+  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/bootstrap.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/mysql.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/js.png">
+  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/chartjs.png">
+  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/tf.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/express.png">
+  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/pandas.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/docker.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/canvasjs.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/bootstrap.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/aws.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/chartjs.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/puppeteer.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/pytorch.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/git.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/tf.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/gcloud.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/arduino1.png">
   <img width=40 height=40 src="https://data-alchemy.net/githubimgs/scikitlearn.png">
