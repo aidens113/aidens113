@@ -14,24 +14,24 @@
 
 <h3 align="left">Language, Frameworks, & Tools:</h3>
 <p align="left"> 
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/python.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/js.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/php.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/nodejs.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/selenium.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/bootstrap.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/mysql.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/chartjs.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/tf.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/express.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/pandas.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/docker.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/canvasjs.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/aws.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/puppeteer.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/pytorch.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/git.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/gcloud.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/arduino1.png">
-  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/scikitlearn.png">
+  <a href="https://www.python.org/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/python.png"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/js.png"></a>
+  <a href="https://www.php.net/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/php.png"></a>
+  <a href="https://nodejs.org/en"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/nodejs.png"></a>
+  <a href="https://www.selenium.dev/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/selenium.png"></a>
+  <a href="https://getbootstrap.com/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/bootstrap.png"></a>
+  <a href="https://www.mysql.com/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/mysql.png"></a>
+  <a href="https://www.chartjs.org/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/chartjs.png"></a>
+  <a href="https://www.tensorflow.org/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/tf.png"></a>
+  <a href="https://expressjs.com/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/express.png"></a>
+  <a href="https://pandas.pydata.org/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/pandas.png"></a>
+  <a href="https://www.docker.com/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/docker.png"></a>
+  <a href="https://canvasjs.com/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/canvasjs.png"></a>
+  <a href="https://aws.amazon.com/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/aws.png"></a>
+  <a href="https://pptr.dev/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/puppeteer.png"></a>
+  <a href="https://pytorch.org/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/pytorch.png"></a>
+  <a href="https://git-scm.com/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/git.png"></a>
+  <a href="https://cloud.google.com"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/gcloud.png"></a>
+  <a href="https://www.arduino.cc/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/arduino1.png"></a>
+  <a href="https://scikit-learn.org/stable/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/scikitlearn.png"></a>
 </p>
