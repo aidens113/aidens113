@@ -16,5 +16,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a src="https://data-alchemy.net/githubimgs/scikitlearn.png" width=40 height=40></a>a
+<img width=40 height=40 src="https://data-alchemy.net/githubimgs/scikitlearn.png">
 </p>
