@@ -18,6 +18,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/js.png"></a>
   <a href="https://www.php.net/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/php.png"></a>
   <a href="https://nodejs.org/en"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/nodejs.png"></a>
+  <a href="https://html.com/html5/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/html5.png"></a>
   <a href="https://www.selenium.dev/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/selenium.png"></a>
   <a href="https://getbootstrap.com/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/bootstrap.png"></a>
   <a href="https://www.mysql.com/"><img width=40 height=40 src="https://data-alchemy.net/githubimgs/mysql.png"></a>
