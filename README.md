@@ -16,5 +16,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<img width=40 height=40 src="https://data-alchemy.net/githubimgs/scikitlearn.png">
+  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/scikitlearn.png">
+  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/scikitlearn.png">
+  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/scikitlearn.png">
+  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/scikitlearn.png">
+  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/scikitlearn.png">
+  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/scikitlearn.png">
+  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/scikitlearn.png">
+  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/gcloud.png">
+  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/arduino.png">
+  <img width=40 height=40 src="https://data-alchemy.net/githubimgs/scikitlearn.png">
 </p>
