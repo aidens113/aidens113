@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidens113&label=Profile%20views&color=0e75b6&style=flat" alt="aidens113" /> </p>
 
-- 🔭 I’m currently working on [Programmer's Plan]
-
 - 💬 Ask me about **Python, JavaScript, Automation, Machine Learning, Data**
 
 <h3 align="left">Connect with me:</h3>
